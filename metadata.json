@@ -1,0 +1,6 @@
+{
+  "name": "Graphine - Real-Time Analytics Dashboard",
+  "description": "A premium real-time analytics dashboard with interactive charts, D3 gauges, sparklines, performance metrics, and activity feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
